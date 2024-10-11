@@ -6,11 +6,14 @@ This solidity test serves as my assessment here in Metacrafters. I am looking fo
 
 ### Getting Started
 >To execute this you will need Remix. https://remix.ethereum.org/
+
 >Copy the code then paste it on remix! viola!
 
 ## Author
 Kyla Beatrice R. Buenaobra
+
 202110282@fit.edu.ph
+
 [@kaieeee](https://www.facebook.com/KylaBeatriceeee)
 
 ## License
