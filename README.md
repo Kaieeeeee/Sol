@@ -2,12 +2,14 @@
 This is a solidity assessment in Metacrafters with this I can test and experiment on how the code works.
 
 ## Description
-This solidity test serves as my assessment here in Metacrafters. I am looking forward to execute this correctly and have a knowledge in solidity.
+This solidity test serves as my assessment here in Metacrafters. I am looking forward to execute this correctly and have a knowledge in solidity. This project showcases how to make a mint and burn tokens using functions.
 
 ### Getting Started
->To execute this you will need Remix. https://remix.ethereum.org/
+1. To execute this you will need Remix. https://remix.ethereum.org/
 
->Copy the code then paste it on remix! viola!
+2. Copy the code then paste it on remix! viola! (Remember to put .sol t the end)
+
+Other notes: The code does not work on my end with pragma 0.8.18, I used pragma  0.8.26.
 
 ## Author
 Kyla Beatrice R. Buenaobra
