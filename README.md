@@ -7,7 +7,7 @@ This solidity test serves as my assessment here in Metacrafters. I am looking fo
 ### Getting Started
 1. To execute this you will need Remix. https://remix.ethereum.org/
 
-2. Copy the code then paste it on remix! viola! (Remember to put .sol t the end)
+2. Copy the code then paste it on remix! viola! (Remember to put .sol at the end)
 
 Other notes: The code does not work on my end with pragma 0.8.18, I used pragma  0.8.26.
 
